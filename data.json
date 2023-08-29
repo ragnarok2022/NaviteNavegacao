@@ -1,0 +1,93 @@
+{
+    "alunos":[
+        {
+            "id": 1,
+            "nome": "João Silva",
+            "turma": "2A"
+        },
+        {
+            "id": 2,
+            "nome": "Ana Sousa",
+            "turma": "5B"
+        },
+        {
+            "id": 3,
+            "nome": "Mauro Moraes",
+            "turma": "4B"
+        },
+        {
+            "id": 4,
+            "nome": "Clara Farias",
+            "turma": "1A"
+        }
+    ],
+    "disciplinas":[
+        {
+            "id": 1,
+            "nome": "Português",
+            "professor": "Antônio"
+        },
+        {
+            "id": 2,
+            "nome": "Matemática",
+            "professor": "Julia"
+        },
+        {
+            "id": 3,
+            "nome": "Ciências",
+            "professor": "Natália"
+        },
+        {
+            "id": 4,
+            "nome": "Inglês",
+            "professor": "Jerry"
+        }
+    ],
+    "avaliacoes":[
+        {
+            "id": 1,
+            "id_disciplina": 4,
+            "data": "2023-02-12"
+        },
+        {
+            "id": 2,
+            "id_disciplina": 3,
+            "data": "2023-02-14"
+        },
+        {
+            "id": 3,
+            "id_disciplina": 2,
+            "data": "2023-02-10"
+        },
+        {
+            "id": 4,
+            "id_disciplina": 1,
+            "data": "2023-02-16"
+        }
+    ],
+    "biblioteca":[
+        {
+            "id": 1,
+            "titulo": "Bisa Bia, Bisa Bel",
+            "autor": "Ana Maria Machado"
+        },
+        {
+            "id": 2,
+            "titulo": "Uma Ideia Toda Azul",
+            "autor": "Marina Colasanti"
+        },
+        {
+            "id": 3,
+            "titulo": "O Touro Ferdinando",
+            "autor": "Munro Leaf"
+        },
+        {
+            "id": 4,
+            "titulo": "O menino do dedo verde",
+            "autor": "Maurice Druon"
+        }
+
+    ]
+}
+
+
